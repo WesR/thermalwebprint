@@ -1,0 +1,9 @@
+getJobs
+getJobAttributes
+cancelJob
+cancelAllJobs
+getPrinterAttributes
+getDefault
+getPrinters
+printFile
+printFiles

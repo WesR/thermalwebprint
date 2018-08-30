@@ -1,0 +1,33 @@
+html, body {
+	background-color: #292C33;
+	font-family: monospace;
+}
+
+.semiTransparent {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.center {
+	transform: translateY(20%);
+	margin: auto;
+	text-align: center;
+	/*width: 40%;*/
+	padding: 10px;
+}
+
+.inlineBlock {
+	display: inline-block;
+}
+
+hr {
+	border-color: white;
+	background-color: white;
+}
+
+p {
+	color: white;
+}
+
+.form-control {
+	width: auto !important;
+}
